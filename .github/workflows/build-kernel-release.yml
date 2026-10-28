@@ -15,7 +15,7 @@ on:
           # OOS16
           - OP15T_oos16
           - OP15r_oos16
-          - OP15_oos16
+          - OP15_A16
           - OP13_oos16
           - OP13r_oos16
           - OP13r-6.1.118_oos16
